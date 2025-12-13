@@ -1,0 +1,108 @@
+Here is your content **converted into the previous required format**
+✔ same questions
+✔ same options
+✔ answer format `: A` (or correct as given)
+✔ **no blank line between answer and next question**
+
+---
+
+Who was the first Prime Minister of Pakistan?
+A.Liaquat Ali Khan
+B.Khawaja Nazimuddin
+C.Huseyn Shaheed Suhrawardy
+D.I. I. Chundrigar
+: A
+Who was the Prime Minister of Pakistan during the Indo-Pakistani War of 1947?
+A.Liaquat Ali Khan
+B.Khawaja Nazimuddin
+C.Huseyn Shaheed Suhrawardy
+D.I. I. Chundrigar
+: A
+Who among the following served as the Prime Minister of Pakistan in the 1950s?
+A.Khawaja Nazimuddin
+B.Huseyn Shaheed Suhrawardy
+C.I. I. Chundrigar
+D.Feroz Khan Noon
+: A
+Who was the Prime Minister of Pakistan during the 1965 Indo-Pakistani War?
+A.Khawaja Nazimuddin
+B.Huseyn Shaheed Suhrawardy
+C.I. I. Chundrigar
+D.Feroz Khan Noon
+: D
+Who became the Prime Minister of Pakistan in 1966 following the resignation of the previous Prime Minister?
+A.Khawaja Nazimuddin
+B.Huseyn Shaheed Suhrawardy
+C.I. I. Chundrigar
+D.Feroz Khan Noon
+: B
+Who was the Prime Minister of Pakistan during the Indo-Pakistani War of 1971?
+A.Feroz Khan Noon
+B.Huseyn Shaheed Suhrawardy
+C.Zulfikar Ali Bhutto
+D.Muhammad Khan Junejo
+: C
+Who served as the Prime Minister of Pakistan in the 1980s?
+A.Muhammad Khan Junejo
+B.Zulfikar Ali Bhutto
+C.Benazir Bhutto
+D.Nawaz Sharif
+: A
+Who among the following was the first female Prime Minister of Pakistan?
+A.Benazir Bhutto
+B.Nawaz Sharif
+C.Muhammad Khan Junejo
+D.Zulfikar Ali Bhutto
+: A
+Who was the Prime Minister of Pakistan during the Operation Fair Play in 1988?
+A.Muhammad Khan Junejo
+B.Benazir Bhutto
+C.Nawaz Sharif
+D.Ghulam Mustafa Jatoi
+: B
+Who became the Prime Minister of Pakistan in 1990 after the dismissal of the previous government?
+A.Muhammad Nawaz Sharif
+B.Benazir Bhutto
+C.Ghulam Mustafa Jatoi
+D.Malik Meraj Khalid
+: A
+Who was the Prime Minister of Pakistan during the Nawaz Sharif-Jahangir Karamat controversy in 1997?
+A.Benazir Bhutto
+B.Muhammad Nawaz Sharif
+C.Malik Meraj Khalid
+D.Miraj Khalid
+: B
+Who served as the Prime Minister of Pakistan during the 1999 Kargil conflict?
+A.Benazir Bhutto
+B.Muhammad Nawaz Sharif
+C.Malik Meraj Khalid
+D.Mir Zafarullah Khan Jamali
+: B
+Who was the Prime Minister of Pakistan during the 2002 general elections?
+A.Mir Zafarullah Khan Jamali
+B.Benazir Bhutto
+C.Muhammad Nawaz Sharif
+D.Chaudhry Shujaat Hussain
+: A
+Who was the Prime Minister of Pakistan during the 2005 Kashmir earthquake?
+A.Mir Zafarullah Khan Jamali
+B.Shaukat Aziz
+C.Chaudhry Shujaat Hussain
+D.Raja Pervaiz Ashraf
+: B
+Who became the Prime Minister of Pakistan in 2007 following the resignation of the previous Prime Minister?
+A.Shaukat Aziz
+B.Raja Pervaiz Ashraf
+C.Yousaf Raza Gillani
+D.Nawaz Sharif
+: C
+Who was the Prime Minister of Pakistan during the 2008 general elections?
+A.Shaukat Aziz
+B.Raja Pervaiz Ashraf
+C.Yousaf Raza Gillani
+D.Nawaz Sharif
+: C
+
+---
+
+If you want, I can **merge all your previous MCQs (History, Math, Science, Sports, Pakistan PMs) into one master quiz** in this exact format for easy printing or programming.

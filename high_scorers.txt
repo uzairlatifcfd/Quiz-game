@@ -1,0 +1,5 @@
+uzair,12
+ali,18
+fatima,15
+ahmed,20
+saif,11

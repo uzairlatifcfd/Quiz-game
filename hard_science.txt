@@ -1,0 +1,121 @@
+
+Which part of the brain is primarily responsible for balance and coordination?
+A.Cerebrum
+B.Medulla
+C.Cerebellum
+D.Hypothalamus
+: C
+Which law states that pressure of a gas is inversely proportional to its volume at constant temperature?
+A.Charles’ Law
+B.Boyle’s Law
+C.Dalton’s Law
+D.Pascal’s Law
+: B
+Which subatomic particle determines the chemical properties of an element?
+A.Neutron
+B.Proton
+C.Electron
+D.Positron
+: C
+Which process releases energy when atomic nuclei split?
+A.Nuclear fusion
+B.Beta decay
+C.Nuclear fission
+D.Alpha emission
+: C
+What is the main cause of ocean tides on Earth?
+A.Earth’s rotation
+B.Sun’s gravity
+C.Moon’s gravity
+D.Wind pressure
+: C
+Which of these electromagnetic waves has the shortest wavelength?
+A.Ultraviolet rays
+B.Infrared rays
+C.Gamma rays
+D.Radio waves
+: C
+Which bonding occurs due to the sharing of electron pairs?
+A.Ionic bond
+B.Covalent bond
+C.Metallic bond
+D.Hydrogen bond
+: B
+Which organelle is responsible for detoxifying harmful substances in cells?
+A.Lysosome
+B.Rough ER
+C.Smooth ER
+D.Nucleolus
+: C
+Which planet has the strongest gravitational pull in the solar system?
+A.Jupiter
+B.Neptune
+C.Saturn
+D.Earth
+: A
+Which color of light has the highest energy?
+A.Red
+B.Yellow
+C.Blue
+D.Violet
+: D
+What is the function of hemoglobin in the blood?
+A.Fight infections
+B.Transport oxygen
+C.Form blood clots
+D.Regulate body temperature
+: B
+Which type of reaction absorbs heat from the surroundings?
+A.Exothermic
+B.Neutralization
+C.Endothermic
+D.Decomposition
+: C
+What is the primary cause of seasons on Earth?
+A.Distance from the Sun
+B.Earth’s tilt
+C.Earth’s rotation speed
+D.Shape of Earth’s orbit
+: B
+Which scientist proposed the uncertainty principle?
+A.Albert Einstein
+B.Niels Bohr
+C.Werner Heisenberg
+D.Max Planck
+: C
+Which organ is responsible for producing bile?
+A.Pancreas
+B.Small intestine
+C.Stomach
+D.Liver
+: D
+Which chemical equation represents photosynthesis?
+A.O₂ + H₂ → H₂O
+B.CO₂ + H₂O → C₆H₁₂O₆ + O₂
+C.CH₄ + O₂ → CO₂ + H₂O
+D.N₂ + H₂ → NH₃
+: B
+Which instrument is used to measure atmospheric pressure?
+A.Hygrometer
+B.Thermometer
+C.Barometer
+D.Seismograph
+: C
+Which phenomenon explains why stars appear to twinkle?
+A.Diffraction
+B.Refraction in the atmosphere
+C.Dispersion
+D.Total internal reflection
+: B
+Which gas was most abundant in Earth’s early atmosphere?
+A.Oxygen
+B.Nitrogen
+C.Carbon dioxide
+D.Hydrogen
+: C
+What is the approximate pH of human blood?
+A.5.2
+B.6.0
+C.7.4
+D.8.2
+: C
