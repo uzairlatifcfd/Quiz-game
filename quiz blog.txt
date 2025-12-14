@@ -1,0 +1,17 @@
+How We Built a Console-Based Quiz Game in C++ (And the Problems We Faced):
+
+This project was completed as a **team project**, and our main goal was to create a console-based quiz game using C++. The idea was to apply the programming concepts we learned in class and turn them into a working application. Since the project had to run completely in the console, we focused more on logic and functionality rather than graphics or design.
+
+The quiz game allows the user to choose a difficulty level such as Easy, Medium, or Hard, and then select a subject. After that, the quiz starts and displays multiple-choice questions. Each question has four options, and the player must choose the correct one within a limited time. At the end of the quiz, the final score is shown, and it is saved in a leaderboard file.
+
+All the questions are stored in text files. Each question block contains the question statement, four options, and the correct answer. During runtime, the program reads these files and loads the questions into arrays. From these arrays, a smaller set of questions is selected randomly so that the quiz feels different every time.
+
+To manage the project better, we divided the code into many **functions**. For example, we created separate functions for menu handling, difficulty modes, random question selection, timers, and high score updates. This made the code more organized and easier to understand, especially since multiple team members were working on it.
+
+One of the biggest difficulties we faced was **randomization**. At first, the same questions were appearing again and again, or the order was not changing. We had trouble making sure that no question was repeated. After several attempts, we solved this by keeping track of used indexes in an array and checking them before selecting a new question.
+
+Another major challenge was the **linking process**. Because the project uses many functions and global variables, sometimes one small change would break another part of the program. Fixing these issues took time and required good communication within the team.
+
+We also faced problems with **file handling**. If the question file format was slightly incorrect, the program would behave unexpectedly. This taught us the importance of consistent and clean data formatting.
+
+Overall, this project helped us understand how larger C++ programs work, how important logic building is, and how teamwork plays a big role in completing real programming projects.

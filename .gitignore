@@ -1,0 +1,43 @@
+# Ignore Visual Studio temporary files, build outputs, and IDE settings
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.class
+*.log
+*.vs/
+.vs/
+.vscode/
+*.vcxproj*
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+
+# Ignore build folders
+/build/
+/bin/
+/Debug/
+/Release/
+
+# Ignore Mac files
+.DS_Store
+
+# Ignore other common items
+*.bak
+*.tmp
+*~
+
+# Ignore compiled resource files
+*.res
+
+# Keep the README and source files tracked
+!README.md
+!*.cpp
+!*.h
+!*.c
+!*.hpp

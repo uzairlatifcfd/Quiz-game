@@ -3,118 +3,118 @@ A.China
 B.Brazil
 C.UK
 D.Russia
-: B
+:B
 How many periods are there in an ice hockey match?
 A.2
 B.3
 C.4
 D.5
-: B
+:B
 In which sport is the term "alley-oop" used?
 A.Football
 B.Basketball
 C.Tennis
 D.Volleyball
-: B
+:B
 Who has won the most Formula 1 World Championships?
 A.Ayrton Senna
 B.Lewis Hamilton
 C.Michael Schumacher
 D.Sebastian Vettel
-: C
+:C
 What is the total number of players on a rugby union team?
 A.13
 B.14
 C.15
 D.16
-: C
+:C
 How long is a standard marathon race?
 A.26.2 miles
 B.24.5 miles
 C.30 miles
 D.25 miles
-: A
+:A
 Which tennis player has won the most Grand Slam singles titles?
 A.Rafael Nadal
 B.Roger Federer
 C.Novak Djokovic
 D.Pete Sampras
-: C
+:C
 In baseball, how many strikes does it take for a batter to be out?
 A.2
 B.3
 C.4
 D.5
-: B
+:B
 Which country won the first FIFA World Cup in 1930?
 A.Uruguay
 B.Italy
 C.Brazil
 D.Germany
-: A
+:A
 How long is each quarter in an NBA game?
 A.10 minutes
 B.12 minutes
 C.15 minutes
 D.20 minutes
-: B
+:B
 Which country is known as the origin of judo?
 A.China
 B.Japan
 C.Korea
 D.Thailand
-: B
+:B
 How many players are there in a water polo team in the pool?
 A.6
 B.7
 C.8
 D.9
-: B
+:B
 In which sport is a "knockout" a common term?
 A.Boxing
 B.Wrestling
 C.Judo
 D.Karate
-: A
+:A
 Who holds the record for the fastest 100m sprint in athletics?
 A.Carl Lewis
 B.Usain Bolt
 C.Justin Gatlin
 D.Tyson Gay
-: B
+:B
 How many holes are there in a standard round of golf?
 A.16
 B.17
 C.18
 D.19
-: C
+:C
 Which country won the ICC Cricket World Cup in 2019?
 A.India
 B.Australia
 C.England
 D.New Zealand
-: C
+:C
 In which sport is the Davis Cup awarded?
 A.Tennis
 B.Golf
 C.Table Tennis
 D.Badminton
-: A
+:A
 Which city hosted the 2012 Summer Olympics?
 A.Beijing
 B.London
 C.Rio de Janeiro
 D.Athens
-: B
+:B
 In Formula 1, what is the minimum number of pit stops allowed in a race?
 A.0
 B.1
 C.2
 D.Depends on strategy
-: D
+:D
 Which country won the Rugby World Cup in 2015?
 A.England
 B.South Africa
 C.New Zealand
 D.Australia
-: C
+:C
