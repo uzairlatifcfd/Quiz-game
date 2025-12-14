@@ -1,41 +1,118 @@
-P.F Final Project
+# 🧠 Quiz Game (C++ Console Application)
 
-This repository contains a C++ trivia quiz program with easy/medium/hard questions across various categories (maths, science, history, sports).
+A **console-based Quiz Game developed in C++**, featuring multiple difficulty levels, a timed question system, and a persistent high-score mechanism.
+This project is designed using **basic C++ concepts** and is suitable for **FAST University exams and semester projects**.
 
-Files
-- Main source file.cpp: The main entrypoint for the program.
-- easy_*.txt, med_*.txt, hard_*.txt: Question files for different difficulties and categories.
-- high_scorers.txt: Leaderboard storage.
+---
 
-How to push this repository to GitHub (Windows PowerShell)
-1. Install Git for Windows if needed: https://git-scm.com/download/win
-2. Open PowerShell, navigate to the project folder:
+## 🚀 Features
 
-    cd "C:\Users\Lio\Desktop\C++ Programs\P. F final project"
+* 🎯 **Three Difficulty Levels**
 
-3. Configure git user (if not set):
+  * Easy
+  * Medium
+  * Hard
 
-    git config --global user.name "Your Name"
-    git config --global user.email "youremail@example.com"
+* ⏱️ **Timed Questions**
 
-4. Initialize, add, and commit files:
+  * Each question has a fixed time limit
+  * Unanswered questions are skipped automatically
 
-    git init
-    git add .
-    git commit -m "Initial commit: Add quiz project files"
+* 🏆 **High Score System**
 
-5. Add your GitHub remote and push to the main branch:
+  * Stores highest score using file handling
+  * Updates when a new record is achieved
 
-    git branch -M main
-    git remote add origin https://github.com/M-Ali05/P.F-final-project.git
-    git push -u origin main
+* 🔀 **Random Question Selection**
 
-If push fails due to authentication, create a Personal Access Token (PAT) in your GitHub settings and run:
+  * Ensures different quiz experience each time
 
-    git remote set-url origin https://<username>:<PAT>@github.com/M-Ali05/P.F-final-project.git
-    git push -u origin main
+* 📂 **File Handling**
 
-Notes
-- Replace <username> and <PAT> with your GitHub username and token.
-- After the initial push, you can use `git push` to push changes.
-- If you use an IDE, you can also use built-in Git integration.
+  * Questions and scores stored in external files
+
+* 🖥️ **User-Friendly Console Interface**
+
+---
+
+## 🛠️ Tech Stack
+
+* **Language:** C++
+* **IDE:** Visual Studio / VS Code
+* **Libraries Used:**
+
+  * `iostream`
+  * `fstream`
+  * `string`
+  * `cstdlib`
+  * `ctime`
+  * `conio.h`
+  * `windows.h`
+
+---
+
+## ⚙️ How It Works
+
+1. User selects a difficulty level
+2. Questions are loaded from files
+3. Timer starts for each question
+4. User answers within the time limit
+5. Score is calculated
+6. High score is checked and updated
+7. Final result is displayed
+
+---
+
+## 📁 Project Structure
+
+```
+Quiz-Game/
+│
+├── main.cpp
+├── easy.txt
+├── medium.txt
+├── hard.txt
+├── highscore.txt
+└── README.md
+```
+
+---
+
+## ▶️ Getting Started
+
+### Prerequisites
+
+* C++ Compiler (GCC / Visual Studio)
+
+### Run the Project
+
+```bash
+g++ main.cpp -o quiz
+./quiz
+```
+
+---
+
+## 📚 Learning Outcomes
+
+* File handling in C++
+* Functions and modular programming
+* Timer and delay implementation
+* Random number generation
+* Console-based UI design
+
+---
+
+## 🔮 Future Enhancements
+
+* GUI-based version
+* More question categories
+* Multiplayer mode
+* Online leaderboard
+
+---
+
+## 👨‍💻 Author
+
+**Muhammad Uzair Latif**
+FAST University
